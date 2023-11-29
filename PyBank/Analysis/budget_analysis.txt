@@ -1,0 +1,7 @@
+Financial Analysis
+------------------
+There are a total of 86  months in the dataset
+The total profit/loss is $ 22564198
+The total average change is $ -8311.105882352942
+The greatest increase is $ 1862002.0
+The greatest decrease is $ -1825558.0
